@@ -2,6 +2,7 @@
 ## Practising Git commands
 Starting to learn Git
 # Just frustated
+Created a new branch using git command checkout
 Expeting a good experience at Git and something worth learning.
 ## A junior heading *this* **text**
 
